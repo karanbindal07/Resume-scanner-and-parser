@@ -1,3 +1,4 @@
+# Code to create job descriptions - 10,000 to train the model
 import random
 import pandas as pd
 

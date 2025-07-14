@@ -1,5 +1,5 @@
 # app.py
-
+# Contains the frontend of the website
 import streamlit as st
 
 st.set_page_config(page_title="Resume Evaluator", layout="centered")
