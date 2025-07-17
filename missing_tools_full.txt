@@ -1,0 +1,20 @@
+Tableau
+R
+Photoshop
+Power BI
+JupyterLab
+Blender
+AutoCAD
+SQL
+Unity
+Docker
+OpenAI Gym
+ArcGIS
+Qiskit
+ROS (Robot Operating System)
+Blockchain SDKs
+HuggingFace Transformers
+TensorFlow
+Raspberry Pi
+Figma
+Azure ML
