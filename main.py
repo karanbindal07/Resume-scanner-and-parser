@@ -38,3 +38,10 @@ if st.button("Evaluate"):
 
 
 
+
+
+
+# effectivity rateing through ai 
+# projects through ai 
+# suggested changes in resume
+# ai - job company research  company 
