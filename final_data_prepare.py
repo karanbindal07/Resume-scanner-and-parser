@@ -10,7 +10,7 @@ jd_skill_path = "jd_skill_training_data_updated.json"
 output_dir = "chunked_training_data"
 chunk_size = 200
 jd_limit = 5000
-resume_start_chunk = 32  # ⬅️ Start from chunk 32
+resume_start_chunk = 0  # ⬅️ Start from chunk 0
 
 # === Make sure output folder exists ===
 os.makedirs(output_dir, exist_ok=True)

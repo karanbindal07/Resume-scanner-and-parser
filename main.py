@@ -45,3 +45,11 @@ if st.button("Evaluate"):
 # projects through ai 
 # suggested changes in resume
 # ai - job company research  company 
+
+
+# Generate 1k jd
+# 2-3k resumes
+#try csv
+
+
+# for every jd first find all skills in it then run that with each resume
